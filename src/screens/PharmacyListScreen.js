@@ -4,7 +4,7 @@ import FlipCard from 'react-native-flip-card';
 import axios from 'axios';
 
 const options = {
-  method: 'GET',
+  method: 'GET  ',
   url: 'https://pharmacies-de-garde-nc.p.rapidapi.com/q/health',
   headers: {
     'X-RapidAPI-Key': 'SIGN-UP-FOR-KEY',
